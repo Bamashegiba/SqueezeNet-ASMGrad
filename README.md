@@ -173,7 +173,7 @@ $$
 
 ---
 
-### 📈 Примеры графиков (вставьте свои изображения)
+### 📈 Примеры графиков
 
 ![График](PNG/fine_tuning_adam_VS_fine_tuning_amsgrad_combined.png)
 ![График](PNG/fine_tuning_adam_VS_scratch_adam_combined.png)
